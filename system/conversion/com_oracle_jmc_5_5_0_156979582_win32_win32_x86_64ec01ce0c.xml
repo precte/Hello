@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Andrei\.eclipse\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64\.idea\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64.iml" timestamp="1445192423146" />
+    <file path="C:\Users\Andrei\.eclipse\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64\.idea\compiler.xml" timestamp="1445192423268" />
+    <file path="C:\Users\Andrei\.eclipse\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64\.idea\copyright\profiles_settings.xml" timestamp="1445192423314" />
+    <file path="C:\Users\Andrei\.eclipse\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64\.idea\misc.xml" timestamp="1445192423196" />
+    <file path="C:\Users\Andrei\.eclipse\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64\.idea\modules.xml" timestamp="1445192423355" />
+    <file path="C:\Users\Andrei\.eclipse\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64\.idea\vcs.xml" timestamp="1445192423336" />
+    <file path="C:\Users\Andrei\.eclipse\com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64\.idea\workspace.xml" timestamp="1445192436079" />
+  </project-files>
+</conversion>
+

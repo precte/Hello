@@ -1,0 +1,25 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id=".AndroidStudio1.4" values="XML,CLASS,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,ARCHIVE" collectionTime="1445157494627" />
+      <project id="com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64" values="ARCHIVE,CLASS,XHTML,Images,IDEA_MODULE,UNKNOWN,CSS,PLAIN_TEXT,Properties,XML,Manifest" collectionTime="1445192436607" />
+    </group>
+    <group name="language-level">
+      <project id=".AndroidStudio1.4" values="JDK_1_6" collectionTime="1445157494869" />
+      <project id="com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64" values="JDK_1_6" collectionTime="1445192436670" />
+    </group>
+    <group name="module type">
+      <project id=".AndroidStudio1.4" values="JAVA_MODULE" collectionTime="1445157494263" />
+      <project id="com.oracle.jmc_5.5.0_156979582_win32_win32_x86_64" values="JAVA_MODULE" collectionTime="1445192436550" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="1" />
+      <entry feature="ide.settings.Android_SDK" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="tips.of.the.day.next" count="45" />
+    </counts>
+  </component>
+</application>

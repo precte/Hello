@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Andrei\.AndroidStudio1.4\.idea\.AndroidStudio1.4.iml" timestamp="1445157354133" />
+    <file path="C:\Users\Andrei\.AndroidStudio1.4\.idea\compiler.xml" timestamp="1445157354262" />
+    <file path="C:\Users\Andrei\.AndroidStudio1.4\.idea\copyright\profiles_settings.xml" timestamp="1445157354357" />
+    <file path="C:\Users\Andrei\.AndroidStudio1.4\.idea\misc.xml" timestamp="1445157354177" />
+    <file path="C:\Users\Andrei\.AndroidStudio1.4\.idea\modules.xml" timestamp="1445157354420" />
+    <file path="C:\Users\Andrei\.AndroidStudio1.4\.idea\vcs.xml" timestamp="1445157354387" />
+    <file path="C:\Users\Andrei\.AndroidStudio1.4\.idea\workspace.xml" timestamp="1445157503865" />
+  </project-files>
+</conversion>
+
